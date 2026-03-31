@@ -84,7 +84,7 @@
 
 - **LinkedIn**: [Kanishka Garg](https://linkedin.com/in/kanishka-garg-65b086307)
 - **LeetCode**: [Kanishka_g0410](https://leetcode.com/u/Kanishka_g0410/)
-- **Email**: [your.email@example.com](mailto:Kanishkagarg410@gmail.com)
+- **Email**: [Kanishkagarg410@gmail.com](mailto:Kanishkagarg410@gmail.com)
 
 ---
 
