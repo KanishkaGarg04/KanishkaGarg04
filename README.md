@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/KanishkaGarg04.png" alt="Kanishka Garg" width="150" style="border-radius: 50%;" />
   
   <h1>Hi there, I'm Kanishka Garg 👋</h1>
   
