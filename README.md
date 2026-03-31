@@ -2,7 +2,7 @@
   
   <h1>Hi there, I'm Kanishka Garg 👋</h1>
   
-  <p><strong>Aspiring Full-Stack Developer</strong> | MERN Stack | DSA | Machine Learning</p>
+  <p><strong> MERN Stack Developer</strong>| DSA | Learning Machine Learning Experiments</p>
   
   <p>
     Passionate Computer Science student building real-world applications with modern web technologies and exploring the fundamentals of Machine Learning.
@@ -35,13 +35,15 @@
 
 #### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### **Backend**
@@ -60,8 +62,8 @@
 
 #### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -78,17 +80,6 @@
 </div>
 
 ---
-
-### 🔥 Featured Projects
-
-Here are some of my notable projects:
-
-- **[MedScan](https://github.com/KanishkaGarg04/MedScan)** — AI-powered emergency assistance system for injury detection and first-aid guidance.
-- **[Prapti_AI](https://github.com/KanishkaGarg04/Prapti_AI)** — Full-stack MVP using FastAPI + React for personalized financial risk assessment and debt management.
-- **[emoji-memory-game](https://github.com/KanishkaGarg04/emoji-memory-game)** — Interactive memory matching game built with HTML, CSS & JavaScript.
-- **[weather-alert22](https://github.com/KanishkaGarg04/weather-alert22)** — Weather-related project built with Python.
----
-
 ### 📫 Let's Connect
 
 - **LinkedIn**: [Kanishka Garg](https://linkedin.com/in/kanishka-garg-65b086307)
