@@ -1,5 +1,5 @@
 
-### 👋 About Me<br><br>###🎓 Computer Science student  <br>###💻 MERN Stack Developer (MongoDB, Express.js, React, Node.js)  <br><br>###📚 Practicing Data Structures & Algorithms and exploring Low-Level Design  <br>###🤖 Completed NPTEL course in Data Science with Python; building ML fundamentals  <br>###🔬 Working with NumPy, Pandas, scikit-learn and advancing in Machine Learning  
+### 👋 About Me<br><br>🎓 Computer Science student  <br>💻 MERN Stack Developer (MongoDB, Express.js, React, Node.js)  <br><br>📚 Practicing Data Structures & Algorithms and exploring Low-Level Design  <br>🤖 Completed NPTEL course in Data Science with Python; building ML fundamentals  <br>###🔬 Working with NumPy, Pandas, scikit-learn and advancing in Machine Learning  
 
 
 ## 🌐 Socials:
