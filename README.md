@@ -88,9 +88,6 @@ Here are some of my notable projects:
 - **[Prapti_AI](https://github.com/KanishkaGarg04/Prapti_AI)** — Full-stack MVP using FastAPI + React for personalized financial risk assessment and debt management.
 - **[emoji-memory-game](https://github.com/KanishkaGarg04/emoji-memory-game)** — Interactive memory matching game built with HTML, CSS & JavaScript.
 - **[weather-alert22](https://github.com/KanishkaGarg04/weather-alert22)** — Weather-related project built with Python.
-
-*(Pin your 4–6 best repositories on your GitHub profile for better visibility)*
-
 ---
 
 ### 📫 Let's Connect
