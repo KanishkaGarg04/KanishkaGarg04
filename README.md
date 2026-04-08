@@ -67,19 +67,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-<div align="center">
+<br/>
 
-![Kanishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanishkaGarg04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KanishkaGarg04&show_icons=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KanishkaGarg04&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaGarg04&layout=compact&theme=radical&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KanishkaGarg04&theme=radical&hide_border=true)
+<p align="center">
+  <img width="55%" src="https://streak-stats.demolab.com?user=KanishkaGarg04&theme=radical&hide_border=true" />
+</p>
 
-</div>
+<br/>
+
 
 ---
+
 ### 📫 Let's Connect
 
 - **LinkedIn**: [Kanishka Garg](https://linkedin.com/in/kanishka-garg-65b086307)
