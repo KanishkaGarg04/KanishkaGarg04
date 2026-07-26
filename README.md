@@ -136,6 +136,8 @@ AI-powered financial intelligence platform that evaluates EMI risks, debt patter
 
 **Tech:** Next.js • TypeScript • Node.js • Express.js • MongoDB • Gemini AI
 
+**Live link** - https://krishi-ai-sepia.vercel.app/](https://prapti-ai-nu.vercel.app/
+
 ---
 
 # 🏆 Achievements
