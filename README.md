@@ -155,7 +155,7 @@ Reached the Semi Finalist stage in ET GenAI Hackathon by building ET-Investor-Gu
 
 📜 **NPTEL — Data Science with Python**
 
-Completed NPTEL certification in Data Science with Python.
+Completed NPTEL certification in Data Science with Python(Elite).
 
 
 ---
