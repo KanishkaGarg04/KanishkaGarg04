@@ -18,7 +18,11 @@
 <img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 &nbsp;
-<a href="https://1drv.ms/b/c/ecee8ab0343a5f07/IQBSAYxpS3j3RaGZMbW68vS2AeBKiG7Cq_6cOtjHKc_ZPaM?e=nUTf3v">
+<a href="https://kanishka-labs-hq.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
+</a>
+&nbsp;
+<a href="https://1drv.ms/b/c/ecee8ab0343a5f07/IQAPj1lGO5jCQL1z28vApF23AX3d_5LliQLTsKmz8I75tuY?e=L78Nrr">
 <img src="https://img.shields.io/badge/VIEW_RESUME-0D1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF"/>
 </a>
 &nbsp;
@@ -401,12 +405,6 @@ using intelligent risk scoring and predictive insights.
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KanishkaGarg04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaGarg04&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=KanishkaGarg04&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 <br/><br/>
@@ -467,7 +465,11 @@ If you're interested in **building products, AI applications, hackathons, or col
 <img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
-<a href="https://1drv.ms/b/c/ecee8ab0343a5f07/IQBSAYxpS3j3RaGZMbW68vS2AeBKiG7Cq_6cOtjHKc_ZPaM?e=nUTf3v">
+<a href="https://kanishka-labs-hq.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
+</a>
+
+<a href="https://1drv.ms/b/c/ecee8ab0343a5f07/IQAPj1lGO5jCQL1z28vApF23AX3d_5LliQLTsKmz8I75tuY?e=L78Nrr">
 <img src="https://img.shields.io/badge/VIEW_MY_RESUME-0D1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF"/>
 </a>
 
