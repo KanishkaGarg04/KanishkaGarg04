@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=720&height=55&lines=Building+Full-Stack+Applications;Exploring+Generative+AI+%26+Machine+Learning;Turning+Ideas+Into+Real-World+Products;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
 
 <br/>
-
-<a href="https://github.com/KanishkaGarg04">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3"/>
-</a>
 &nbsp;
 <a href="https://linkedin.com/in/kanishka-garg-65b086307">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
