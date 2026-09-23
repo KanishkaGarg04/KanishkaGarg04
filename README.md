@@ -1,59 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070A,55:0D1117,100:102A43&height=210&section=header&text=KANISHKA%20GARG&fontSize=52&fontColor=E6EDF3&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20APPLIED%20AI&descAlignY=62&descSize=17&descColor=58A6FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A090D16%2C50%3A111C2E%2C100%3A1A2E4C&height=185&section=header&text=KANISHKA%20GARG&fontSize=52&fontColor=EAF2FF&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20AI&descSize=14&descColor=7CC7FF&descAlignY=68" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=720&height=55&lines=Building+Full-Stack+Applications;Exploring+Generative+AI+%26+Machine+Learning;Turning+Ideas+Into+Real-World+Products;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
-
-<br/>
-&nbsp;
-<a href="https://linkedin.com/in/kanishka-garg-65b086307">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Kanishka_g0410/">
-<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-&nbsp;
-<a href="https://kanishka-labs-hq.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
-</a>
-&nbsp;
-<a href="https://1drv.ms/b/c/ecee8ab0343a5f07/IQAPj1lGO5jCQL1z28vApF23AX3d_5LliQLTsKmz8I75tuY?e=L78Nrr">
-<img src="https://img.shields.io/badge/VIEW_RESUME-0D1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF"/>
-</a>
-&nbsp;
-<a href="mailto:Kanishkagarg410@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7CC7FF&background=090D16&center=true&vCenter=true&width=720&height=48&lines=Building+Full-Stack+Applications;Designing+APIs+%26+Backend+Systems;Integrating+AI+Into+Real+Products;Solving+Problems+With+Java+%26+DSA;Build+%7C+Debug+%7C+Learn+%7C+Improve" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KanishkaGarg04&label=PROFILE+VIEWS&color=0D1117&style=for-the-badge"/>
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/kanishka-garg-65b086307">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td width="18"></td>
+<td align="center">
+<a href="https://kanishka-labs-hq.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
+---
 
 <table>
 <tr>
-
-<td width="32%" valign="top">
+<td width="45%" valign="top">
 
 ### `> whoami`
 
 ```text
 KANISHKA GARG
+─────────────
+B.Tech Computer Science
+4th Year
 
-Computer Science
-Student
-
-FULL STACK
-+
-APPLIED AI
-
-Building things.
-Breaking things.
-Learning from them.
+FULL STACK DEVELOPER
+SOFTWARE ENGINEER
+AI INTEGRATION
 ```
 
 <br/>
@@ -61,449 +47,394 @@ Learning from them.
 ### `> currently`
 
 ```text
-● Building AI-driven
-  products
-
-● Strengthening DSA
-
-● Learning System Design
-
-● Exploring Generative AI
-
-● Exploring Deep Learning
-
-● Exploring RAG
+→ Building full-stack applications
+→ Strengthening DSA & problem solving
+→ Learning software engineering
+→ Exploring AI integration
+→ Shipping through hackathons
 ```
 
-<br/>
+</td>
+<td width="55%" valign="top">
 
-### `> mindset`
+## ABOUT ME
 
-```text
+I build practical full-stack software products using the **MERN stack**. I work across **frontend and backend** architecture, solve problems using **Java and Data Structures**, and integrate **AI capabilities** into applications where they create real value.
+
+I learn through **building, debugging, testing, and iterating**. Hackathons have shaped how I approach problem-solving under constraints—translating ideas into working products in compressed timeframes.
+
+My focus is becoming a strong software engineer who understands the full development lifecycle: from API design and database architecture to deployment and real-world debugging.
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECH STACK
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+**LANGUAGES**
+
+<img src="https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=coffeescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+
+</td>
+<td width="20%" align="center">
+
+**FRONTEND**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+
+</td>
+<td width="20%" align="center">
+
+**BACKEND**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-0078D4?style=flat-square&logo=rest&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+
+</td>
+<td width="20%" align="center">
+
+**DATABASES**
+
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+
+</td>
+<td width="20%" align="center">
+
+**TOOLS & AI**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Integration-00A4EF?style=flat-square&logo=openai&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+### CS FUNDAMENTALS
+```
+Data Structures & Algorithms  ·  Object-Oriented Programming
+DBMS  ·  Operating Systems  ·  Computer Networks
+```
+
+---
+
+## FEATURED PROJECTS
+
+<div align="center">
+
+### PROJECT 01
+
+# Health Intelligence & Report Insights Platform
+
+Full-stack health intelligence platform for **OCR-based report processing**, **AI-assisted analysis**, **structured health insights**, and **conversational health information**.
+
+**TECHNOLOGY STACK**
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Tesseract%20OCR-0078D4?style=flat-square&logo=ocr&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20AI-8B5CF6?style=flat-square&logo=google&logoColor=white" />
+
+**KEY FEATURES**
+
+```
+┌─────────────────────────────────────────────────────┐
+│ • Tesseract OCR for medical report text extraction  │
+│ • Gemini AI for AI-assisted report analysis         │
+│ • JWT-authenticated REST API architecture           │
+│ • Report history and storage system                 │
+│ • Interactive conversational health assistant       │
+│ • 90%+ OCR accuracy (tested across 10+ reports)    │
+│ • Frontend: Vercel  |  Backend: Render              │
+└─────────────────────────────────────────────────────┘
+```
+
+<a href="https://med-scan-topaz.vercel.app/">
+<img src="https://img.shields.io/badge/→%20LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/KanishkaGarg04">
+<img src="https://img.shields.io/badge/→%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+---
+
+### PROJECT 02
+
+# Financial Risk & Debt Intelligence Platform
+
+Full-stack financial intelligence platform for **risk assessment**, **debt stress analysis**, **repayment scenario modeling**, **market data integration**, and **AI-assisted financial insights**.
+
+**TECHNOLOGY STACK**
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter%20API-FF6B35?style=flat-square&logo=openai&logoColor=white" />
+
+**KEY FEATURES**
+
+```
+┌──────────────────────────────────────────────────────┐
+│ • Custom 0–100 financial risk scoring engine        │
+│ • Debt stress analysis & EMI calculations           │
+│ • Repayment scenario comparison modeling            │
+│ • External market-data API integration              │
+│ • AI-assisted financial chatbot (OpenRouter)        │
+│ • PDF report generation with email delivery         │
+│ • IndexedDB-based offline report storage            │
+│ • JWT authentication & secure APIs                  │
+│ • Financial health metrics & allocation analysis    │
+└──────────────────────────────────────────────────────┘
+```
+
+<a href="https://prapti-ai-nu.vercel.app/">
+<img src="https://img.shields.io/badge/→%20LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/KanishkaGarg04/Prapti-AI">
+<img src="https://img.shields.io/badge/→%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+---
+
+### PROJECT 03
+
+# Workflow Orchestration & Job Processing Platform
+
+Full-stack workflow system for **asynchronous job processing**, **queue-based execution**, **background workers**, **task lifecycle management**, and **real-time execution monitoring**.
+
+**TECHNOLOGY STACK**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+
+**KEY FEATURES**
+
+```
+┌──────────────────────────────────────────────────────┐
+│ • JWT authentication with protected REST APIs       │
+│ • PostgreSQL persistence with Prisma ORM            │
+│ • In-memory queue with background worker threads    │
+│ • Asynchronous task processing & lifecycle          │
+│ • Task States: PENDING → PROCESSING → COMPLETED    │
+│ • Socket.IO real-time updates to dashboard          │
+│ • Task analytics, search, and status filtering      │
+│ • Modular frontend/backend architecture             │
+└──────────────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/KanishkaGarg04/TaskFlow">
+<img src="https://img.shields.io/badge/→%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+## ADDITIONAL WORK
+
+**Agri Intelligence Platform**
+
+Agriculture-focused web application combining **frontend development** with **machine-learning capabilities** for crop recommendation, fertilizer guidance, plant disease detection, and market-price forecasting. Primarily contributed to **frontend development and system integration** in team project environment.
+
+---
+
+## ACHIEVEMENTS
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥇 AMD SLINGSHOT
+
+**Top 10**
+
+Regional Demo Day — Bhopal 2026
+
+*Selected among top 10 teams for AI-powered solution development*
+
+</td>
+<td align="center" width="50%">
+
+### 🎖️ THE ECONOMIC TIMES
+
+**SEMIFINALIST**
+
+GenAI Hackathon 2026
+
+*Advanced to semi-final round with innovative AI integration*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🏆 ABV-IIITM GWALIOR
+
+**FINALIST**
+
+Hacksagon 2,100+ Participants
+
+*Finalist among 2,100+ participants from competitive hackathon*
+
+</td>
+<td align="center" width="50%">
+
+### ⭐ IEEE TECH FOR TOMORROW
+
+**ADVANCED TO SEMIFINALS*
+
+Hackathon 2026
+
+*Progressed through competitive evaluation rounds*
+
+</td>
+</tr>
+</table>
+
+---
+
+## CERTIFICATIONS & TRAINING
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**NPTEL**
+
+Python for Data Science
+
+```
+Score: 71%
+```
+
+</td>
+<td width="33%" align="center">
+
+**AWS EDUCATE**
+
+Cloud Fundamentals
+
+```
+Completed
+```
+
+</td>
+<td width="33%" align="center">
+
+**FLYRANK**
+
+Backend AI Engineering
+
+```
+Pre-Internship
+Technical Training
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## BUILD LOG
+
+```
 BUILD
   ↓
 EXPERIMENT
+  ↓
+DEBUG
   ↓
 LEARN
   ↓
 IMPROVE
 ```
 
-</td>
+I learn through **hands-on development**:
 
-<td width="68%" valign="top">
+- Building full-stack applications from problem statements
+- Debugging real production issues and edge cases
+- Experimenting with new technologies and architectural patterns
+- Testing across different environments and user scenarios
+- Iterating based on performance metrics and user feedback
+- Shipping work through hackathons under time pressure
 
-## `// ABOUT ME`
-
-I'm a Computer Science student focused on **full-stack development and applied AI**. I build end-to-end products using the **MERN stack**, integrate AI capabilities into real-world applications, and continuously strengthen my **Data Structures & Algorithms** and **System Design** fundamentals.
-
-```yaml
-Education:   Computer Science
-Focus:       Full-Stack Development (MERN) + Applied AI
-Exploring:   Generative AI, Deep Learning, RAG Pipelines
-Practicing:  Data Structures & Algorithms, System Design
-Currently:   Building AI-driven products through hackathons
-```
-
-I'm interested in turning AI capabilities into useful software products, and I learn best by building, experimenting, and solving real-world problems.
-
-<br/>
-
-## `// TECH STACK`
-
-<table>
-<tr>
-
-<td width="16%" valign="top">
-
-**LANGUAGES**
-
-☕ Java
-
-🟨 JavaScript
-
-🔷 TypeScript
-
-🐍 Python
-
-</td>
-
-<td width="17%" valign="top">
-
-**FRONTEND**
-
-⚛️ React.js
-
-▲ Next.js
-
-🌊 Tailwind CSS
-
-⚡ Vite
-
-</td>
-
-<td width="17%" valign="top">
-
-**BACKEND**
-
-🟢 Node.js
-
-◈ Express.js
-
-🔥 Flask
-
-⚡ FastAPI
-
-</td>
-
-<td width="17%" valign="top">
-
-**DATABASE**
-
-🍃 MongoDB
-
-🐬 MySQL
-
-🐘 PostgreSQL
-
-☁️ Neon DB
-
-</td>
-
-<td width="17%" valign="top">
-
-**AI / ML**
-
-🧠 Deep Learning
-
-📈 LSTM
-
-👁️ YOLOv8
-
-🔎 OCR
-
-✨ Gemini API
-
-</td>
-
-<td width="16%" valign="top">
-
-**TOOLS**
-
-🔧 Git
-
-🐙 GitHub
-
-📮 Postman
-
-🐳 Docker
-
-▲ Vercel
-
-</td>
-
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+Each project is a cycle of **building → learning → improving**. Hackathons have accelerated this process, teaching me how to make technical decisions quickly while maintaining code quality.
 
 ---
+
+## GITHUB ACTIVITY
 
 <div align="center">
 
-## `// FEATURED BUILDS`
+### Contribution Streak
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KanishkaGarg04&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/KanishkaGarg04)
 
-<table>
-<tr>
+### Contribution Snake
 
-<!-- MEDSCAN -->
-
-<td width="50%" valign="top">
-
-<h2>🩺 MedScan</h2>
-
-<h3>AI Medical Report Analyzer</h3>
-
-<p>
-AI-powered healthcare platform that analyzes medical reports using
-<b>OCR and Gemini Vision API</b> to extract biomarkers, identify
-abnormalities, and generate health insights through an AI medical assistant.
-</p>
-
-<br/>
-
-<b>STACK</b>
-
-<p>
-<code>React.js</code>
-<code>Tailwind CSS</code>
-<code>Node.js</code>
-<code>Express.js</code>
-<code>MongoDB</code>
-<code>Gemini Vision API</code>
-</p>
-
-<br/>
-
-<a href="https://med-scan-topaz.vercel.app/">
-<img src="https://img.shields.io/badge/↗_LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
-</a>
-
-</td>
-
-<!-- KRISHIAI -->
-
-<td width="50%" valign="top">
-
-<h2>🌱 KrishiAI</h2>
-
-<h3>AI Agriculture Assistant</h3>
-
-<p>
-AI-powered agriculture platform supporting farmers with
-<b>crop recommendations, fertilizer insights, computer vision,
-and market-price prediction</b>.
-</p>
-
-<br/>
-
-<b>STACK</b>
-
-<p>
-<code>React.js</code>
-<code>Flask</code>
-<code>Neon DB</code>
-<code>YOLOv8</code>
-<code>LSTM</code>
-</p>
-
-<br/><br/>
-
-<a href="https://krishi-ai-sepia.vercel.app/">
-<img src="https://img.shields.io/badge/↗_LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
-</a>
-
-</td>
-
-</tr>
-
-<!-- PRAPTI AI — FULL WIDTH -->
-
-<tr>
-
-<td colspan="2" valign="top">
-
-<h2>💰 Prapti AI</h2>
-
-<h3>Neural Financial Resilience Engine</h3>
-
-<p>
-AI-powered financial intelligence platform that evaluates
-<b>EMI risks, debt patterns, and financial stability</b>
-using intelligent risk scoring and predictive insights.
-</p>
-
-<br/>
-
-<b>STACK</b>
-
-<p>
-<code>OpenRouter</code>
-<code>JavaScript</code>
-<code>Node.js</code>
-<code>Express.js</code>
-<code>MongoDB</code>
-</p>
-
-<br/>
-
-<a href="https://prapti-ai-nu.vercel.app/">
-<img src="https://img.shields.io/badge/↗_LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/KanishkaGarg04/KanishkaGarg04/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br/>
-
 ---
 
-<table>
-<tr>
+## LET'S CONNECT
 
-<td width="60%" valign="top">
-
-<h2>// ACHIEVEMENTS</h2>
-
-<h3>🥇 AMD Slingshot — Top 10</h3>
-
-<b>Regional Demo Day · Bhopal</b>
-
-<p>Selected among the <b>Top 10 teams</b> for developing an AI-powered solution.</p>
-
-<h3>🚀 ET GenAI Hackathon — Semi-Finalist</h3>
-
-<p>Reached the Semi-Final stage while building <b>ET-Investor-Guardian</b>.</p>
-
-<h3>📜 NPTEL — Elite</h3>
-
-<b>Data Science with Python</b>
-
-<p>Completed the certification with <b>Elite distinction</b>.</p>
-
-</td>
-
-<td width="40%" valign="top">
-
-<h2>// FOCUS AREAS</h2>
-
-<pre>
-┌──────────────────────────────┐
-│                              │
-│  ▸ Data Structures &         │
-│    Algorithms                │
-│                              │
-│  ▸ System Design             │
-│                              │
-│  ▸ Generative AI & RAG       │
-│                              │
-│  ▸ Deep Learning             │
-│                              │
-│  ▸ Computer Vision           │
-│                              │
-└──────────────────────────────┘
-</pre>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
+Interested in **building full-stack applications**, **exploring AI integration**, **hackathon collaboration**, or **discussing software engineering**? Let's connect.
 
 <div align="center">
-
-## `// GITHUB ACTIVITY`
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=KanishkaGarg04&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkaGarg04&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=58A6FF"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `// CONTRIBUTION MATRIX`
-
-<br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KanishkaGarg04/KanishkaGarg04/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KanishkaGarg04/KanishkaGarg04/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/KanishkaGarg04/KanishkaGarg04/output/github-contribution-grid-snake.svg"
-    width="90%"
-    alt="GitHub Contribution Snake"
-  />
-
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-## `// LET'S CONNECT`
-
-If you're interested in **building products, AI applications, hackathons, or collaborating on interesting ideas**, feel free to reach out.
-
-<br/>
 
 <a href="https://linkedin.com/in/kanishka-garg-65b086307">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
-
-<a href="https://leetcode.com/u/Kanishka_g0410/">
-<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
+&nbsp;
 <a href="https://kanishka-labs-hq.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
 </a>
-
-<a href="https://1drv.ms/b/c/ecee8ab0343a5f07/IQAPj1lGO5jCQL1z28vApF23AX3d_5LliQLTsKmz8I75tuY?e=L78Nrr">
-<img src="https://img.shields.io/badge/VIEW_MY_RESUME-0D1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF"/>
-</a>
-
-<a href="mailto:Kanishkagarg410@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</td>
-
-<td width="35%" valign="top">
-
-```text
-┌─────────────────────────┐
-│                         │
-│  ALWAYS                 │
-│                         │
-│  LEARNING.              │
-│  BUILDING.              │
-│  IMPROVING.             │
-│                         │
-│  >_                     │
-│                         │
-└─────────────────────────┘
-```
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<sub>Thanks for visiting my profile.</sub>
+&nbsp;
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070A,50:0D1117,100:102A43&height=90&section=footer" width="100%"/>
+<a href="[https://1drv.ms/b/c/ecee8ab0343a5f07/IQAPj1lGO5jCQL1z28vApF23AX3d_5LliQLTsKmz8I75tuY?e=L78Nrr](https://1drv.ms/b/c/ecee8ab0343a5f07/IQA1rI6JyZJPRp3LlXcINo5sAe6RTWK8N-jUQGUSLfa-poI?e=w0H38i)">
+<img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=readme&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="mailto:Kanishkagarg410@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=120&section=footer&text=Happy%20Building%20%2F%2F&fontSize=28&fontColor=58A6FF&animation=fadeIn" width="100%" />
 
 </div>
