@@ -410,17 +410,6 @@ Interested in **building full-stack applications**, **exploring AI integration**
 
 <div align="center">
 
-<a href="https://linkedin.com/in/kanishka-garg-65b086307">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
-</a>
-&nbsp;
-<a href="https://kanishka-labs-hq.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
-</a>
-&nbsp;
-
-<br/><br/>
-
 <a href="[https://1drv.ms/b/c/ecee8ab0343a5f07/IQAPj1lGO5jCQL1z28vApF23AX3d_5LliQLTsKmz8I75tuY?e=L78Nrr](https://1drv.ms/b/c/ecee8ab0343a5f07/IQA1rI6JyZJPRp3LlXcINo5sAe6RTWK8N-jUQGUSLfa-poI?e=w0H38i)">
 <img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=readme&logoColor=58A6FF" />
 </a>
@@ -428,13 +417,5 @@ Interested in **building full-stack applications**, **exploring AI integration**
 <a href="mailto:Kanishkagarg410@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=120&section=footer&text=Happy%20Building%20%2F%2F&fontSize=28&fontColor=58A6FF&animation=fadeIn" width="100%" />
 
 </div>
