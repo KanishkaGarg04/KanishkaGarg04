@@ -410,7 +410,7 @@ Interested in **building full-stack applications**, **exploring AI integration**
 
 <div align="center">
 
-<a href="[https://1drv.ms/b/c/ecee8ab0343a5f07/IQAPj1lGO5jCQL1z28vApF23AX3d_5LliQLTsKmz8I75tuY?e=L78Nrr](https://1drv.ms/b/c/ecee8ab0343a5f07/IQA1rI6JyZJPRp3LlXcINo5sAe6RTWK8N-jUQGUSLfa-poI?e=w0H38i)">
+<a href="https://1drv.ms/b/c/ecee8ab0343a5f07/IQA1rI6JyZJPRp3LlXcINo5sAe6RTWK8N-jUQGUSLfa-poI?e=0O8Vq3">
 <img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=readme&logoColor=58A6FF" />
 </a>
 &nbsp;
