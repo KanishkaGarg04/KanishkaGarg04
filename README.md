@@ -170,7 +170,7 @@ Full-stack health intelligence platform for **OCR-based report processing**, **A
 <a href="https://med-scan-topaz.vercel.app/">
 <img src="https://img.shields.io/badge/→%20LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
-<a href="https://github.com/KanishkaGarg04">
+<a href="https://github.com/KanishkaGarg04/health-intelligence-report-insights-platform">
 <img src="https://img.shields.io/badge/→%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -210,7 +210,7 @@ Full-stack financial intelligence platform for **risk assessment**, **debt stres
 <a href="https://prapti-ai-nu.vercel.app/">
 <img src="https://img.shields.io/badge/→%20LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
-<a href="https://github.com/KanishkaGarg04/Prapti-AI">
+<a href="https://github.com/KanishkaGarg04/Financial-Risk-Debt-Intelligence-Platform">
 <img src="https://img.shields.io/badge/→%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -247,7 +247,7 @@ Full-stack workflow system for **asynchronous job processing**, **queue-based ex
 └──────────────────────────────────────────────────────┘
 ```
 
-<a href="https://github.com/KanishkaGarg04/TaskFlow">
+<a href="https://github.com/KanishkaGarg04/workflow-orchestration-job-processing-platform">
 <img src="https://img.shields.io/badge/→%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
